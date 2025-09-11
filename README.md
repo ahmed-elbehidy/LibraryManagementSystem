@@ -34,9 +34,3 @@ LibraryManagementSystem/
  g++ main.cpp Book.cpp LibrarySystem.cpp -o library
 3. Run:
 ./library
-
-Demo
-
-. Console-based menu with options for managing books and users.
-
-. Example flow: Register → Login → Add Book → Borrow → Return → Exit.
