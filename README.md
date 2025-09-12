@@ -15,14 +15,6 @@ It simulates a real-world library where users can register, log in, and borrow/r
 - **STL Containers**: `set`, `map`, `vector`  
 - **Design**: UML Class Diagram included  
 
-##  Project Structure
-LibraryManagementSystem/
-├── Book.h / Book.cpp
-├── User.h
-├── LibrarySystem.h / LibrarySystem.cpp
-├── main.cpp
-├── books.txt (auto-generated)
-├── users.txt (auto-generated)
 
 
 ##  How to Run
