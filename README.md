@@ -1,4 +1,4 @@
-# 📚 Library Management System (C++)
+# Library Management System
 
 A console-based library management system built with **C++ OOP principles**, **STL containers**, and **file handling**.  
 It simulates a real-world library where users can register, log in, and borrow/return books.
