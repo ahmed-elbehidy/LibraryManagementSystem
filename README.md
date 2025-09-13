@@ -23,6 +23,8 @@ It simulates a real-world library where users can register, log in, and borrow/r
    git clone https://github.com/ahmed-elbehidy/LibraryManagementSystem.git
    cd LibraryManagementSystem
 2. Compile the project:
- g++ main.cpp Book.cpp LibrarySystem.cpp -o library
+   ```bash
+   g++ main.cpp Book.cpp LibrarySystem.cpp -o library
 3. Run:
-./library
+   ```bash
+   ./library
